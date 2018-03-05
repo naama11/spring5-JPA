@@ -1,2 +1,3 @@
 # spring5-JPA
-practice using JPA
+practice using JPA.
+spring 5
